@@ -6,8 +6,8 @@ def get_data():
 	return [
 		{
 			"module_name": "Safetly",
-			"color": " ",
-			"icon": " ",
+			"color": "#f1c40f",
+			"icon": "fa fa-check",
 			"type": "module",
 			"label": _("Safetly")
 		}
