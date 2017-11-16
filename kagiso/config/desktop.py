@@ -5,10 +5,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Kagiso",
+			"module_name": "Safetly",
 			"color": " ",
 			"icon": " ",
 			"type": "module",
-			"label": _("Kagiso")
+			"label": _("Safetly")
 		}
 	]
