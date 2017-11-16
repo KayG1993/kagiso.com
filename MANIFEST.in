@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kagiso *.css
+recursive-include kagiso *.csv
+recursive-include kagiso *.html
+recursive-include kagiso *.ico
+recursive-include kagiso *.js
+recursive-include kagiso *.json
+recursive-include kagiso *.md
+recursive-include kagiso *.png
+recursive-include kagiso *.py
+recursive-include kagiso *.svg
+recursive-include kagiso *.txt
+recursive-exclude kagiso *.pyc
